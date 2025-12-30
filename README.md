@@ -1,4 +1,4 @@
-https://clonefuturbyte.vercel.app/
+https://shaheer-futurbyteclone.vercel.app/
 # Futurbyte
 
 ## 🎨 Design Highlights
